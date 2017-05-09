@@ -1,0 +1,1 @@
+/Applications/Bootstrap Studio.app
