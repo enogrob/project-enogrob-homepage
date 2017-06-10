@@ -1,0 +1,20 @@
+# Site settings
+title: Roberto Nogueira - blog
+email: enogrob@gmail.com
+description: Blogging about Software Development, Data Science, Cloud Computing, Mythology and Philosophy among other things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://enogrob.github.io" # the base hostname & protocol for your site
+twitter_username: enogrob
+github_username:  enogrob
+# Build settings
+markdown: kramdown
+timezone: America/Sao_Paulo
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
